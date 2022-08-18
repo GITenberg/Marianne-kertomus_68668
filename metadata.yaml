@@ -1,11 +1,16 @@
 _repo: Marianne-kertomus_68668
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krag, Vilhelm
     gutenberg_agent_id: '54894'
     url: http://www.gutenberg.org/2009/agents/54894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68668#Marianne-kertomus
 gutenberg_issued: '2022-08-02'
 identifiers:
   gutenberg: '68668'
